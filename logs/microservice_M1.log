@@ -1,0 +1,7 @@
+{"level":"info","message":"Микросервис М1 запущен и слушает порт 3000"}
+{"level":"info","message":"POST /"}
+{"level":"info","message":"Запрос отправлен в RabbitMQ"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Запрос отправлен в RabbitMQ"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"Запрос отправлен в RabbitMQ"}
